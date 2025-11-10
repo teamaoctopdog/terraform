@@ -48,12 +48,6 @@ Each project in this repository represents a **step forward in understanding Inf
 
 ---
 
-## Linux Cheat Sheet
-
-Along with Terraform, I’ve been building strong Linux fundamentals.  
-👉 **[Check out my Linux Cheat Sheet here](https://github.com/Sangangouda-Patil/Linux-cheat-sheet)**
-
----
 
 ## How to Use
 
